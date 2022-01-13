@@ -1,0 +1,9 @@
+name: Bedwars
+version: '${project.version}'
+main: de.luck212.bw.main.Main
+
+commands:
+   setup:
+     description: Setze verschiedene Locations auf dem Server
+   shopcreate:
+     description: Erstelle den Ingame Villager-Shop für Spieler
